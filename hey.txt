@@ -1,2 +1,8 @@
 hey
+<<<<<<< HEAD
 hu
+=======
+hey new branch created
+
+to pull
+
